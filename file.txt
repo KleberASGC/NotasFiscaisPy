@@ -1,0 +1,1 @@
+INSERT INTO invoices (created_at,updated_at,number,model,serie,note_issue_date,note_entry_date,cfop,nfe_Key,cnpj_emit,cnpj_dest,amount,bc_icms_amount,icms_amount,bc_icms_st_amount,icms_st_amount,ecf_serial_number,document_type,ref_nfe,operation_nature,additional_data,arquivo_nfe)
